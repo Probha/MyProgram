@@ -3,6 +3,6 @@
 <head>
 <title> My Home Page </title>
 </head>
-Home
+My Home Page
 
 </html>
